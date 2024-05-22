@@ -79,7 +79,7 @@
 ## <picture> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"  width = 40px> </picture> *Connect with me*
 <p align="center"> 
   <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/isaac-galindo-1723b824a"> 
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/isaac-galindo-1723b824a/"> 
           <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width=60 height=60</a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/IsaacJacoboGB"> 
           <img src="https://img.icons8.com/?size=100&id=SzgQDfObXUbA&format=png&color=000000" width=60 height=60></a>
